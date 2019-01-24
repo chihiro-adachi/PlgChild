@@ -4,7 +4,8 @@
   "description": "PlgChild",
   "type": "eccube-plugin",
   "require": {
-    "ec-cube/plugin-installer": "~0.0.7"
+    "ec-cube/plugin-installer": "~0.0.7",
+    "ec-cube/PlgParent": "*"
   },
   "extra": {
     "code": "PlgChild"
